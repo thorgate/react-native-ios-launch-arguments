@@ -1,6 +1,6 @@
 {
     "name": "react-native-ios-launch-arguments",
-    "version": "1.0.0",
+    "version": "1.0.0-alpha.1",
     "description": "React Native Module to get app launch parameters on IOS",
     "license": "MIT",
     "main": "index.js",
