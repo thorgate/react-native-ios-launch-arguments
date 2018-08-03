@@ -9,6 +9,11 @@
 }
 RCT_EXPORT_MODULE()
 
++ (BOOL)requiresMainQueueSetup
+{
+  return YES;
+}
+
 // Allows us to access the following information in JS:
 //
 //  - Application launch arguments: launchArguments
